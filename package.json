@@ -17,13 +17,14 @@
   },
   "scripts": {
     "start": "node http_server.js",
-    "build": "npm build",
+    "build": "npm install",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
 
   "engines":{
-    "node": "16.17"
+    "node": "16.17",
+    "npm": "8.15"
   },
   "browserslist": {
     "production": [
