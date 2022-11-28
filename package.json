@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "start": "node http_server.js",
+    "start": "react-scripts start",
     "build": "npm install",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
